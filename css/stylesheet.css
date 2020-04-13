@@ -6,7 +6,7 @@ body{
   
 }
 .container{
-  width: 90%;
+  width: 100%;
   margin: auto;
   overflow: hidden;
 }
@@ -21,7 +21,6 @@ header{
   color: #ffffff;
   padding-top: 30px;
   min-height: 70px;
-  width: 100%;
 }
 header a{
   color: #CA622E;
