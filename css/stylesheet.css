@@ -6,7 +6,7 @@ body{
   
 }
 .container{
-  width: 100%;
+  width: 90%;
   margin: auto;
   overflow: hidden;
 }
@@ -154,11 +154,6 @@ header a:hover{
 
 @media(max-width: 768px){
   header #header,
-  article#main-col,
-  aside#sidebar {
-    float: none;
-    width: 100%;
-  }
   header nav,
   header nav li,
   
