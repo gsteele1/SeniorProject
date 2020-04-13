@@ -8,7 +8,7 @@ body{
 .container{
   width: auto;
   margin: auto;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 ul{
   margin: 0;
