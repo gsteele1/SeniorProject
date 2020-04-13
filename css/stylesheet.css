@@ -159,7 +159,7 @@ header a:hover{
   article#main-col,
   aside#sidebar {
     float: none;
-    width: none;
+    width: 100%;
   }
   #boxes .box,
   article#main-col,
