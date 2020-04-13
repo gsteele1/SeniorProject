@@ -21,6 +21,7 @@ header{
   color: #ffffff;
   padding-top: 30px;
   min-height: 70px;
+  width; 100%;
 }
 header a{
   color: #CA622E;
@@ -37,9 +38,6 @@ header li{
 header #header{
   float: left;
   
-}
-#header{
-  width: 100%;
 }
 header #header h1{
   margin: 0;
@@ -238,7 +236,7 @@ header a:hover{
 Image by <a href="https://pixabay.com/users/webandi-1460261/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2068462">Andreas Lischka</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2068462">Pixabay</a>
 Image by <a href="https://pixabay.com/users/Jahhoo-1418773/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1208013">Janusz M</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1208013">Pixabay</a>
 Image by <a href="https://pixabay.com/users/TaniaVdB-54472/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=408808">Tania Van den Berghen</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=408808">Pixabay</a>
-Image by <a href="https://pixabay.com/users/amayaeguizabal-151412/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=468228">Amaya Eguiz·bal</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=468228">Pixabay</a>
+Image by <a href="https://pixabay.com/users/amayaeguizabal-151412/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=468228">Amaya Eguiz√°bal</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=468228">Pixabay</a>
 Image by <a href="https://pixabay.com/users/bluepaints-4790618/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4676188">bluepaints</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4676188">Pixabay</a>
 Image by <a href="https://pixabay.com/users/echels-534609/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=504658">Sean Echelbarger</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=504658">Pixabay</a>
 Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=801826">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=801826">Pixabay</a>
