@@ -156,6 +156,11 @@ header a:hover{
   header #header,
   header nav,
   header nav li,
+  article#main-col,
+  aside#sidebar {
+    float: none;
+    width: none;
+  }
   #boxes .box,
   article#main-col,
   aside#sidebar {
