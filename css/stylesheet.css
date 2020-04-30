@@ -146,7 +146,7 @@ header a:hover{
   header li,
   #boxes .box, 
   article#main-col,{
-    
+    float: none;
     text-align: center;
     width: 100%;
 }
