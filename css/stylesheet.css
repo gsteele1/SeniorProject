@@ -140,28 +140,7 @@ header a:hover{
   width:97%;
     
 }
-@media(max-width: 780px){
-  header #header,
-  header nav,
-  header li,
-  #boxes .box,
-  article#main-col,
-  aside#sidebar {
-    float: none;
-    text-align: center;
-    width: 100%;
-}
 
-  header{
-    padding-bottom: 20px;
-    width: 100%;
-  }
-
-  #banner h1{
-    margin-top: 40px;
-  }
-
-}
 
 /* social media icons*/
 .icon,
