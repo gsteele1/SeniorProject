@@ -1,26 +1,31 @@
 body{
-  font: 15px/2 Papyrus, fantasy;
+  font: 16px/2 Papyrus, fantasy;
   padding: 0;
   margin: 0;
   background-color: #f4f4f4;
-  overflow-x: hidden;
-}
-.container{
-  width: auto;
-  margin: auto;
   overflow-x: hidden;
 }
 ul{
   margin: 0;
   padding: 0;
 }
-
+.container{
+  width: auto;
+  margin: auto;
+  overflow-x: hidden;
+}
 /* Header */
 header{
   background: #361108;
   color: #ffffff;
   padding-top: 30px;
   min-height: 70px;
+}
+
+header li{
+  float: left;
+  display: inline;
+  padding: 0 10px 0 12px;
 }
 header a{
   color: #CA622E;
@@ -29,27 +34,21 @@ header a{
   font-size: 12px;
   font-weight: bold;
 }
-header li{
-  float: left;
-  display: inline;
-  padding: 0 10px 0 12px;
-}
 header #header{
   float: left;
-  
 }
 header #header h1{
   margin-left: 20px;
   display: inline;
 }
+header .highlight, header .current a{
+  color: #CA622E;
+  font-weight: bold;
+}
 header nav{
   float: right;
   margin-top: 10px;
   margin-right: 10px;
-}
-header .highlight, header .current a{
-  color: #CA622E;
-  font-weight: bold;
 }
 header a:hover{
   color: #cccccc;
@@ -74,11 +73,9 @@ header a:hover{
   font-size: 25px;
 }
 
-
 #boxes{
   margin-top: 5px;
  }
-
 
 #boxes .box{
   float:left;
@@ -91,7 +88,6 @@ header a:hover{
 #faqs {
   margin-top: 5px;
 }
-
 #faqs .faq{
   display: block;
   text-align:justify;
@@ -119,10 +115,6 @@ header a:hover{
   margin-right: auto;
   font-size: 20px;
 }
-
-
-
- 
 #aboutus {
   margin-top: 5px;
 }
@@ -136,7 +128,6 @@ header a:hover{
   margin-right: auto;
   font-size: 20px;
 }
-
 
 #page-container {
   position: relative;
@@ -178,29 +169,15 @@ header a:hover{
 }
 
 /* social media icons*/
-
-
-
-
-
-
- .icon,
+.icon,
  ul{
     list-style-type: none;
     text-align: center;
     display: block;  
-    
-  }
-
+ }
 .icon li{
     display:inline-block;
-     
-   
 }
-
-
-
-
 /* others */
 
 .column {
@@ -217,7 +194,7 @@ header a:hover{
 }  
 
 
-/* Images and Icon Ref */
+/* Images and Icon References */
 <a href="https://icons8.com/icon/nTrzI-jC_E2_/hedgehog">Hedgehog icon by Icons8</a>
 <a href="https://icons8.com/icon/XCXKorMG85Tb/cat-butt">Cat Butt icon by Icons8</a>
 <a href="https://icons8.com/icon/20903/corgi">Corgi icon by Icons8</a>
