@@ -145,7 +145,8 @@ header a:hover{
   header nav,
   header li,
   #boxes .box {
-   text-align: center;
+    float: none;
+    text-align: center;
     width: 100%;
 }
 
