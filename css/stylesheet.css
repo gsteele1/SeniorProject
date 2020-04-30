@@ -64,15 +64,14 @@ header a:hover{
   color: #B1AFAF;
  
 }
+#banner p{
+  font-size: 25px;
+}
 #banner h1{
   margin-top: 100px;
   font-size: 55px;
   margin-bottom: 10px;
 }
-#banner p{
-  font-size: 25px;
-}
-
 #boxes{
   margin-top: 5px;
  }
@@ -88,6 +87,9 @@ header a:hover{
 #faqs {
   margin-top: 5px;
 }
+#faqs h2{
+  text-align:center;
+}
 #faqs .faq{
   display: block;
   text-align:justify;
@@ -97,11 +99,6 @@ header a:hover{
   margin-right: auto;
   font-size: 20px;
 }
-
-#faqs h2{
-  text-align:center;
-}
-
 #events {
   margin-top: 5px;
 }
@@ -143,12 +140,10 @@ header a:hover{
   width:97%;
     
 }
-
-
 @media(max-width: 768px){
   header #header,
   header nav,
-  header nav li,
+  header li,
   #boxes .box,
   article#main-col,
   aside#sidebar {
