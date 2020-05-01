@@ -142,7 +142,7 @@ header a:hover{
 @media(max-width: 780px){
   header #header,
   header nav,
-  header li,
+  header nav li,
   #boxes .box, 
   article#main-col,
   aside#sidebar{
