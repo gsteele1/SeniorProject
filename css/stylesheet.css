@@ -29,6 +29,7 @@ header li{
 }
 header a{
   color: #CA622E;
+  text-decoration: none;
   text-transform: uppercase;
   font-size: 12px;
   font-weight: bold;
